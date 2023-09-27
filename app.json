@@ -1,6 +1,6 @@
 {
     "name": "بوت ذكاء اصطناعي",
-    "description": "المطور حسين بايروكرام",
+    "description": "المطور بلال بايروكرام",
     "keywords": [
         "telegram",
         "bot",
@@ -11,9 +11,9 @@
         "maker",
         "generator"
     ],
-    "repository": "https://github.com/SS7SS/chatgpt",
+    "repository": "https://github.com/E9N99/chat",
     "website": "https://t.me/hussien_pyrogram",
-    "success_url": "https://t.me/hussien_pyrogram",
+    "success_url": "https://t.me/NUNUU",
     "env": {
         "id": {
             "description": "ضع ايدي المطور الخاص بك"
